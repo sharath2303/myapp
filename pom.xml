@@ -9,8 +9,8 @@
   <repositories>
     <repository>
       <id>my-repo2</id>
-      <name>private</name>
-      <url>http://ec2-13-233-16-34.ap-south-1.compute.amazonaws.com:8081/nexus/content/groups/private/</url>
+      <name>public</name>
+      <url>http://ec2-35-154-186-79.ap-south-1.compute.amazonaws.com:8081/nexus/content/groups/public/</url>
     </repository>
     <repository>
       <id>my-repo1</id>
