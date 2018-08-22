@@ -30,12 +30,12 @@
     <repository>
       <id>myapp-releases</id>
       <name>myapp-releases</name>
-      <url>http://ip-172-31-23-20.ap-south-1.compute.internal:8081/nexus/content/repositories/myapp-releases/</url>
+      <url>http://ec2-18-191-86-182.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/myapp-releases/</url>
     </repository>
     <snapshotRepository>
       <id>myapp-snapshots</id>
       <name>myapp-snapshots</name>
-      <url>http://ip-172-31-23-20.ap-south-1.compute.internal:8081/nexus/content/repositories/myapp-snapshots/</url>
+      <url>http://ec2-18-191-86-182.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/myapp-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
